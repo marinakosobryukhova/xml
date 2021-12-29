@@ -1,0 +1,4 @@
+При разработке xml-файла я использовала шаблон Венецианские жалюзи (Venetian Blind).
+Документ разбит на шесть составных элементов <MONDAY></MONDAY>, <TUESDAY></TUESDAY>, <WEDNESDAY></WEDNESDAY>, <THURSDAY></THURSDAY>, <FRIDAY></FRIDAY>, <SATURDAY></SATURDAY> содержащих учебные предметы в тегах:  <ONE></ONE>, <TWO></TWO>, <THREE></THREE>, <FOUR></FOUR>.
+Каждый учебный предмет имеет такие теги как: <NAME></NAME>, <TIMESTART></TIMESTART>, <TIMEEND></TIMEEND>, <TEACHER></TEACHER>, <HALL></HALL>.
+Все вышеперечисленные элементы объединены при помощи корневого элемента <RASPISANIE></RASPISANIE>.

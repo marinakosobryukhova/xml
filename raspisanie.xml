@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<RASPISANIE>
+	<MONDAY>
+		<ONE>
+			<NAME>Физкультура</NAME>
+			<TIMESTART>8:30</TIMESTART>
+			<TIMEEND>10:00</TIMEEND>
+			<TEACHER>Зуева И. А.</TEACHER>
+			<HALL>Спортзал</HALL>
+		</ONE>
+		<TWO>
+			<NAME>Иностранный язык</NAME>
+			<TIMESTART>10:10</TIMESTART>
+			<TIMEEND>11:40</TIMEEND>
+			<TEACHER>Галактионова И.Е.</TEACHER>
+			<HALL>427</HALL>
+		</TWO>
+		<THREE>
+			<NAME>СТИП</NAME>
+			<TIMESTART>12:10</TIMESTART>
+			<TIMEEND>13:40</TIMEEND>
+			<TEACHER>Ефремов Р. В.</TEACHER>
+			<HALL>ВЦ</HALL>
+		</THREE>
+	</MONDAY>
+	<TUESDAY>
+		<TWO>
+			<NAME>Мультимедиа технологии</NAME>
+			<TIMESTART>10:10</TIMESTART>
+			<TIMEEND>11:40</TIMEEND>
+			<TEACHER>Виштак Н. М.</TEACHER>
+			<HALL>ВЦ</HALL>
+		</TWO>
+		<THREE>
+			<NAME>Моделирование процессов и систем</NAME>
+			<TIMESTART>12:10</TIMESTART>
+			<TIMEEND>13:40</TIMEEND>
+			<TEACHER>Очкур Г. В.</TEACHER>
+			<HALL>102</HALL>
+		</THREE>
+	</TUESDAY>
+	<WEDNESDAY>
+		<ONE>
+			<NAME>ТСВР</NAME>
+			<TIMESTART>8:30</TIMESTART>
+			<TIMEEND>10:00</TIMEEND>
+			<TEACHER>Мотков А. Г.</TEACHER>
+			<HALL>102</HALL>
+		</ONE>
+		<TWO>
+			<NAME>АИС</NAME>
+			<TIMESTART>10:10</TIMESTART>
+			<TIMEEND>11:40</TIMEEND>
+			<TEACHER>Виштак О. В.</TEACHER>
+			<HALL>102</HALL>
+		</TWO>
+	</WEDNESDAY>
+	<THURSDAY>
+		<TWO>
+			<NAME>АИС</NAME>
+			<TIMESTART>10:10</TIMESTART>
+			<TIMEEND>11:40</TIMEEND>
+			<TEACHER>Михеев И.В.</TEACHER>
+			<HALL>ВЦ</HALL>
+		</TWO>
+		<THREE>
+			<NAME>АИС</NAME>
+			<TIMESTART>12:10</TIMESTART>
+			<TIMEEND>13:40</TIMEEND>
+			<TEACHER>Михеев И. В.</TEACHER>
+			<HALL>ВЦ</HALL>
+		</THREE>
+	</THURSDAY>
+	<FRIDAY>
+		<ONE>
+			<NAME>СТУБД</NAME>
+			<TIMESTART>8:30</TIMESTART>
+			<TIMEEND>10:00</TIMEEND>
+			<TEACHER>Штырова И. А.</TEACHER>
+			<HALL>102</HALL>
+		</ONE>
+		<TWO>
+			<NAME>СТУБД</NAME>
+			<TIMESTART>10:10</TIMESTART>
+			<TIMEEND>11:40</TIMEEND>
+			<TEACHER>Штырова И. А.</TEACHER>
+			<HALL>102</HALL>
+		</TWO>
+	</FRIDAY>
+	<SATURDAY>
+		<THREE>
+			<NAME>СТООП</NAME>
+			<TIMESTART>12:10</TIMESTART>
+			<TIMEEND>13:40</TIMEEND>
+			<TEACHER>Бельмесов П. И.</TEACHER>
+			<HALL>ВЦ</HALL>
+		</THREE>
+		<FOUR>
+			<NAME>СТООП</NAME>
+			<TIMESTART>13:50</TIMESTART>
+			<TIMEEND>15:20</TIMEEND>
+			<TEACHER>Бельмесов П. И.</TEACHER>
+			<HALL>ВЦ</HALL>
+		</FOUR>
+	</SATURDAY>
+</RASPISANIE>
